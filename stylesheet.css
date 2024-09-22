@@ -89,20 +89,6 @@ h1 {
 }
 
 
-@media (min-width: 768px) { 
-    .option {
-        flex-basis: 30%; 
-    }
-}
-
-@font-face {
-    font-family: 'Poppins'; 
-    src: url('fonts/Poppins-Medium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-}
-
-
 /*-------------------------CARD PAGE-----------------------------*/
 
 
@@ -236,3 +222,19 @@ a {
   a:visited {
     color: rgb(0, 0, 0);
   }
+
+
+
+
+@media (min-width: 768px) { 
+    .option {
+        flex-basis: 30%; 
+    }
+}
+
+@font-face {
+    font-family: 'Poppins'; 
+    src: url('fonts/Poppins-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
