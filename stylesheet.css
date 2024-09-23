@@ -121,7 +121,7 @@ h1 {
 
 .payment-cash {
     display: flex;
-    padding: 20px;
+    padding: 10px;
     border: 1px solid #ddd;
     border-radius: 16px;
     transition: background-color 0.3s;
@@ -131,6 +131,7 @@ h1 {
     align-items: center;
     justify-content: center;
     width: 700px;
+    height: 500px;
 }
 
 strong {
