@@ -31,6 +31,7 @@ header {
     position: absolute;
     top: 50px; 
     left: 50px; 
+    color: black;
 }
 
 .back-button img {
@@ -38,7 +39,6 @@ header {
     width: auto; 
     margin-right: 1px;
     padding-top: 1px;
-    color: black;
 }
 
 .logo img {
